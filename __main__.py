@@ -7,7 +7,7 @@ import re
 import zigpy.types as t
 
 # There are many different radio libraries but they all have the same API
-from zigpy_znp.zigbee.application import ControllerApplication
+from zigpy_deconz.zigbee.application import ControllerApplication
 
 
 # logging
